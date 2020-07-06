@@ -4,4 +4,4 @@ Compare two images by each pixel color.
 Images from the gallery.
 Results show how many different pixels found.
 Also, results show a difference in percents.
-![alt text](https://github.com/NestorBurma1/two_images_comparison/blob/master/images/1pix.png)
+![Imagew](C:\Users\Oleksii\AndroidStudioProjects\FlutterProjects\two_images_comparison\images\image2png?raw=true "Title")
