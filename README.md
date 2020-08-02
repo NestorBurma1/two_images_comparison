@@ -6,4 +6,8 @@ Results show how many different pixels found.
 Also, results show a difference in percents.
 
 ![First image](https://github.com/NestorBurma1/two_images_comparison/blob/master/images/image1.jpg)
-![First image](https://github.com/NestorBurma1/two_images_comparison/blob/master/images/image2.jpg)
+![Second image](https://github.com/NestorBurma1/two_images_comparison/blob/master/images/image2.jpg)
+
+#Result
+
+![Result](https://github.com/NestorBurma1/two_images_comparison/blob/master/images/result_screen.jpg)
